@@ -1,3 +1,16 @@
+# Data set Information
+
+
+| Dataset Name              | Instance Count    |
+|-------------------------  |----------------   |
+| KDDTest+.arff             | 22544             |
+| KDDTest-21.arff           | 11850             |
+| KDDTrain+.arff            | 125973            |
+| KDDTrain+_20Percent.arff  | 25192             |
+
+
+# Note
+
 Note that the following fields have been changed from symbolic to continuous, because the data
 has been sufficiently represented as integers:
 

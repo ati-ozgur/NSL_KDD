@@ -10,9 +10,9 @@
 
 # Reference Links
 
-- [Original Reference Link](http://www.unb.ca/cic/research/datasets/nsl.html)
+- [Original Reference Link](https://www.unb.ca/cic/datasets/nsl.html)
 
-- [Original Article Link](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7C05CDF892E875A01EDF75C2970CBDB9?doi=10.1.1.680.6760&rep=rep1&type=pdf)
+- [Original Article Link](https://ieeexplore.ieee.org/document/5356528)
 
 
 
